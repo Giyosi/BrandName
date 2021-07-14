@@ -1,6 +1,6 @@
 import React from 'react';
 import "./About.css"
-import Container from '../../components/header/Container'
+import Container from '../../components/Container'
 import Title from '../../components/Title';
 import AboutCard from '../../components/AboutCard';
 
